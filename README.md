@@ -1,4 +1,11 @@
-### Hi there I'm Vinicius Torres Pascucci👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusPascucci&color=yellow" alt="Profile views"/> </p>
+<h1 align="left">Hi, I'm Vinicius Torres Pascucci</h1>
+
+<p align="left" style="background:yellow">
+<a href="https://github.com/viniciuspascucci1993 target="_blank">
+<img align="center" src="https://avatars.githubusercontent.com/u/36245046?s=400&v=4?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
 <hr/>
 <ul>
   <li>🔭 System Analyst and Development</li>
