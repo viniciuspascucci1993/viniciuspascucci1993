@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Vinicius Torres Pascucci</h1>
 
 <p align="left" style="background:yellow">
-<a href="https://github.com/viniciuspascucci1993 target="_blank">
-<img align="center" src="https://https://img.shields.io/badge/ViniciusPascucci-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="[https://www.linkedin.com/in/viniciuspascucci1993](https://www.linkedin.com/in/vinicius-pascucci-5a4024151/) target="_blank">
+<img align="center" src="https://img.shields.io/badge/ViniciusPascucci-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 <hr/>
